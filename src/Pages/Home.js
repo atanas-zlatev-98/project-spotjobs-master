@@ -50,7 +50,7 @@ function Home(props) {
                     <option value="3">Финанси</option>
                     <option value="3">Промишленост</option>
                     <option value="3">Графичен Дизайн</option>
-                    <option value="3">Поддръжка</option>
+                    <option value="3">Поддръжкаa</option>
                 </select>
     </div>
     <div className='col-sm'>
