@@ -32,15 +32,25 @@ function Home(props) {
                     <option >Моля Изберете Локация</option>
                     <option value="1">гр.София</option>
                     <option value="2">гр.Пазарджик</option>
-                    <option value="3">гр.Пловдив</option>
+                    <option value="3">гр.Бургас</option>
+                    <option value="3">гр.Варна</option>
+                    <option value="3">гр.Стара Загора</option>
+                    <option value="3">гр.Шумен</option>
+                    <option value="3">гр.Русе</option>
+                    <option value="3">гр.Габрово</option>
                 </select>
     </div>
     <div class="col-sm mb-3">
     <select className="form-select" aria-label="Default select example">
                     <option>Моля Изберете Сфера</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
+                    <option value="1">Софтуерна Разработка</option>
+                    <option value="2">Маркетинг</option>
+                    <option value="3">Телекомуникация</option>
+                    <option value="3">Стройтелство</option>
+                    <option value="3">Финанси</option>
+                    <option value="3">Промишленост</option>
+                    <option value="3">Графичен Дизайн</option>
+                    <option value="3">Поддръжка</option>
                 </select>
     </div>
     <div className='col-sm'>
